@@ -16,11 +16,11 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-<<<<<<< HEAD
+
     self.view.backgroundColor = [UIColor yellowColor];
-=======
+
     self.view.backgroundColor = [UIColor greenColor];
->>>>>>> oc-change-1.1
+
     
     
     
